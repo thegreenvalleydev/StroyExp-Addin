@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command StroyExp</Text>
+    <Description>Some description for StroyExp</Description>
+    <Assembly>StroyExp.dll</Assembly>
+    <FullClassName>StroyExp.Command</FullClassName>
+    <ClientId>c8c58b47-9c52-41a8-8146-b80223f7708a</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application StroyExp</Name>
+    <Assembly>StroyExp.dll</Assembly>
+    <FullClassName>StroyExp.App</FullClassName>
+    <ClientId>b9d3d1c1-75fc-402e-bb95-abad48117887</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
