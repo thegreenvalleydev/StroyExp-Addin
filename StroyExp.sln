@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StroyExp", "StroyExp.csproj", "{379482C0-EEF4-4408-8B4B-D7A9FD129CE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SESysName", "..\SESysName\SESysName.csproj", "{443CD366-68D3-4176-B2D6-7050ECA40585}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{379482C0-EEF4-4408-8B4B-D7A9FD129CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{379482C0-EEF4-4408-8B4B-D7A9FD129CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{379482C0-EEF4-4408-8B4B-D7A9FD129CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443CD366-68D3-4176-B2D6-7050ECA40585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443CD366-68D3-4176-B2D6-7050ECA40585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443CD366-68D3-4176-B2D6-7050ECA40585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443CD366-68D3-4176-B2D6-7050ECA40585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
